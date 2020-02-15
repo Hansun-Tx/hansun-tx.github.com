@@ -9,7 +9,7 @@
       <p><b>地址：宁波市鄞州区前湖南路8号</b></p>
       </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">
+      <img src="zhengjianzhao.jpg" width="100%">
       </td>
     </tr>
   </table>
